@@ -211,21 +211,20 @@ bot.listen()  # Chạy mãi, session luôn fresh
 ### English
 
 ```bash
-# Option 1: From PyPI (if updated)
-pip install zlapi
+
+
 
 # Option 2: From this enhanced repository
-pip install git+https://github.com/YOUR_REPO/zlapi.git
+pip install git+https://github.com/Michael-Howard209z/zlapi-fix.git
 ```
 
 ### Tiếng Việt
 
 ```bash
-# Cách 1: Từ PyPI (nếu đã cập nhật)
-pip install zlapi
+
 
 # Cách 2: Từ repo nâng cấp này
-pip install git+https://github.com/YOUR_REPO/zlapi.git
+pip install git+https://github.com/Michael-Howard209z/zlapi-fix.git
 ```
 
 ---
@@ -334,7 +333,7 @@ For complete API documentation, refer to the original README or visit:
 
 ---
 
-## 🙏 Acknowledgments / Ghi Nhận
+##  Acknowledgments / Ghi Nhận
 
 - Original author: [Vexx (VrxxDev)](https://github.com/Its-VrxxDev)
 - Enhanced edition: 2025 improvements focusing on reliability and performance
