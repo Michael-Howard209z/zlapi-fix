@@ -9,7 +9,7 @@ from .models import *
 from ._client import ZaloAPI
 
 __title__ = "zlapi"
-__version__ = "1.0.3"
+__version__ = "2.0.0"
 __description__ = "Zalo API (Website) for Python"
 
 __copyright__ = "Copyright 2024 by Vexx"
